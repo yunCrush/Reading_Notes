@@ -18,3 +18,5 @@
 ### 3.Kafka
 ### 4.Dubbo
 
+### 设计理念
+　　[常见的设计思想](https://github.com/yunCrush/Reading_Notes/issues/10)
