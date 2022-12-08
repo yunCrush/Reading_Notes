@@ -15,6 +15,9 @@
 ### 1.RocketMQ
 　　[《RocketMQ基础理论》](https://github.com/yunCrush/Reading_Notes/issues/7)
 ### 2.Nacos
+　　[《Nacos-源码环境搭建》](https://github.com/yunCrush/Reading_Notes/issues/11)
+　　[《Nacos-配置更新动态感知》](https://github.com/yunCrush/Reading_Notes/issues/12)
+  
 ### 3.Kafka
 ### 4.Dubbo
 
